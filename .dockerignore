@@ -1,0 +1,14 @@
+.gitignore
+.idea
+justfile
+README.md
+venv/
+env/
+ENV/
+.env
+.venv
+
+.git
+kubernetes
+.dockerignore
+Dockerfile

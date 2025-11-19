@@ -1,0 +1,5 @@
+streamlit
+docxtpl
+mammoth
+pymorphy3
+scipy
